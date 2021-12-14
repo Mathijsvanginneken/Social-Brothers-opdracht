@@ -1,3 +1,5 @@
+@import './Home.module.css'; 
+
 @tailwind base;
 
 @tailwind components;
